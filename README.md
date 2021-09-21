@@ -1,6 +1,6 @@
  # Mixed Messages - CodeCademy project
  ## Introduction
-Mixed Messages is a [Codecademy](https://www.codecademy.com/) JavaScript portfolio project. It is about practising JavaScript syntax and git workflow.
+Mixed Messages is a [Codecademy](https://www.codecademy.com/) JavaScript portfolio project. It is about practicing JavaScript syntax and git workflow.
 ## Technologies
 + JavaScript
 + Node.js v14.17.6
